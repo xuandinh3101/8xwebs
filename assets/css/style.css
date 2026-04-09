@@ -3457,7 +3457,7 @@ body.bg-title .scroll-top::after {
   background: var(--bs-bg-color5);
   font-weight: 500;
   font-family: var(--title-font);
-  margin-bottom: 12px;
+  margin-bottom: 25px;
   border: 1px solid var(--theme-color);
   border-radius: 16px;
   padding: 2px 15px;
@@ -16345,10 +16345,10 @@ a.text-theme:hover,
 }
 .service-box-seven .service-top h4, .service-box-eight .service-top h4 {
   margin: 0;
-  font-size: 22px;
+  font-size: 20px;
   line-height: 1.2;
   color: var(--white-color);
-  font-weight: 600;
+  font-weight: 400;
   font-family: var(--title-font);
   transition: all 0.4s ease 0s;
 }
@@ -23251,17 +23251,6 @@ a.text-theme:hover,
   position: relative;
   overflow: hidden;
   border-radius: 20px;
-}
-.tv-team-card .team-photo::before {
-  content: "";
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  height: 0;
-  width: 100%;
-  background-image: linear-gradient(0deg, rgb(15, 83, 243) 0%, rgb(15, 83, 243) 20%, rgba(15, 83, 243, 0) 50%, rgba(15, 83, 243, 0) 100%);
-  opacity: 0;
-  transition: all 0.4s ease 0s;
 }
 .tv-team-card .team-photo img {
   width: 100%;
