@@ -1,5 +1,5 @@
 <!doctype html>
-<html><!-- InstanceBegin template="/Templates/service.dwt" codeOutsideHTMLIsLocked="false" -->
+<html>
 <head>
     <meta charset="utf-8">
     <meta content="ie=edge" http-equiv="x-ua-compatible">
@@ -64,26 +64,7 @@
                                 </a>
                             </div>
                         </div>
-                        <div class="col-auto nav-outer">
-                            <div class="nav-menu">
-                                <nav class="main-menu d-none d-lg-inline-block">
-                                    <ul class="navigation">
-                                        <li><a href="index.html">Trang chủ</a></li>
-                                        <li><a href="about.html">Giới thiệu</a></li> 
-                                        <li class="active"><a href="service.html">Dịch vụ</a></li>
-                                        <li><a href="pricing.html">Báo giá</a></li>
-                                        <li><a href="contact.html">Liên hệ</a></li>
-                                    </ul>
-                                </nav>
-                                <div class="navbar-right d-inline-flex d-lg-none">
-                                    <button class="menu-toggle sidebar-btn" type="button">
-                                        <span class="line"></span>
-                                        <span class="line"></span>
-                                        <span class="line"></span>
-                                    </button>
-                                </div>
-                            </div>
-                        </div>
+                        <!-- TemplateBeginEditable name="NavMenu" -->Nav-Menu<!-- TemplateEndEditable -->
                         <div class="col-auto header-right-wrapper">
                             <div class="outer-box">
                                 <a href="about.html" class="theme-btn">
@@ -167,14 +148,7 @@
                     <div class="row">
                         <div class="col-12">
                             <div class="title-outer">
-                                <div class="page-title">
-                                    <h2 class="title">Dịch vụ</h2>
-                                    <ul class="page-breadcrumb">
-                                        <li><a href="index.html"><i class="fa-solid fa-house-chimney"></i>Trang chủ</a></li>
-                                        <li><span>/</span><a href="service.html"> Dịch vụ</a></li>
-                                        <li><span>/</span> <!-- InstanceBeginEditable name="PageTitle" -->Tối ưu SEO<!-- InstanceEndEditable --></li>
-                                    </ul>
-                                </div>
+                               <!-- TemplateBeginEditable name="PageTitle" -->PageTitle<!-- TemplateEndEditable -->
                                 <div class="image-box md-d-none">
                                     <div class="shapes">
                                         <div class="shape shape-1"><img src="assets/images/shapes/circle.webp" alt=""></div>
@@ -190,127 +164,7 @@
             </div>
         </section>
         <!-- End Header Area -->
-        <!-- Start Service Details Section -->
-        <!-- ========================================== -->
-        <section class="services-details space bg-light pb-0">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-4 col-lg-4">
-                        <div class="service-sidebar">
-                            <div class="sidebar-widget service-sidebar-single">
-                                <div class="widget-box category-list">
-                                    <h4 class="sidebar-title"> Dịch vụ website </h4>
-                                    <!-- InstanceBeginEditable name="ServieList" -->
-                                    <div class="sidebar-service-list">
-                                        <ul>
-                                            <li><a href="service-1.html"> Tư vấn chiến lược <i class="fas fa-arrow-right"></i></a></li>
-                                            <li><a href="service-2.html"> Thiết kế giao diện <i class="fas fa-arrow-right"></i></a></li>
-                                            <li><a href="service-3.html"> Bảo mật hệ thống <i class="fas fa-arrow-right"></i></a></li>
-                                            <li><a href="service-4.html"> Lập trình website <i class="fas fa-arrow-right"></i></a></li>
-                                            <li class="current"><a href="service-5.html"> Tối ưu SEO <i class="fas fa-arrow-right"></i></a></li>
-                                            <li><a href="service-6.html"> Bảo trì và phát triển <i class="fas fa-arrow-right"></i></a></li>
-                                        </ul>
-                                    </div>
-                                    <!-- InstanceEndEditable -->
-                                </div>
-                                <div class="widget-box service-details-help bg-dark">
-                                    <div class="bg image"><img src="assets/images/service/details-bg.webp" alt=""></div>
-                                    <div class="service-details-content">
-                                        <div class="icon"><img src="assets/images/icons/contact.png" alt=""></div>
-                                        <h2 class="help-title">Cần tư vấn dịch vụ? <br> Liên hệ ngay</h2>
-                                        <p class="text">Chúng tôi cung cấp giải pháp thiết kế và phát triển website toàn diện</p>
-                                        <div class="help-contact">
-											<a href="contact.html" class="theme-btn br-30">
-												<span class="link-effect">
-													<span class="effect-1">Liên hệ tư vấn</span>
-													<span class="effect-1">Liên hệ tư vấn</span>
-												</span>
-												<span class="arrow-all">
-													<i>
-														<svg width="16" height="19" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
-															<path d="M2 6H10M10 6L6 2M10 6L6 10" stroke="#1053f3" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-														</svg>
-														<svg width="16" height="19" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
-															<path d="M2 6H10M10 6L6 2M10 6L6 10" stroke="#1053f3" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
-														</svg>
-													</i>
-												</span>
-											</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- InstanceBeginEditable name="ServiceDetail" -->
-                    <div class="col-xl-8 col-lg-8">
-                        <div class="services-details__content">
-                            <div class="image overlay-anim1">
-                                <img class="br-10 w-100" src="assets/images/service/details-img01.webp" alt="">
-                            </div>
-                            <h3 class="title-two">Tối ưu SEO</h3>
-                            <p>Tối ưu SEO là quá trình nâng cao khả năng hiển thị của website trên các công cụ tìm kiếm, giúp doanh nghiệp tiếp cận khách hàng một cách tự nhiên và bền vững. Chúng tôi triển khai SEO theo hướng tổng thể, từ nghiên cứu từ khóa, tối ưu cấu trúc website, nội dung đến các yếu tố kỹ thuật như tốc độ tải trang, mobile-friendly và schema.</p>
-                            <p class="mb-25">Mỗi chiến lược SEO được xây dựng dựa trên hành vi tìm kiếm của khách hàng mục tiêu và đặc thù ngành nghề, đảm bảo website không chỉ đạt thứ hạng cao mà còn thu hút đúng đối tượng. Với cách tiếp cận này, SEO không chỉ là công cụ tăng traffic mà còn là nền tảng thúc đẩy tăng trưởng dài hạn và tối ưu chi phí marketing.</p>
-                            <div class="row gy-30 align-items-center">
-								<div class="row service-details-box my-40  md-my-0 md-gy-30">
-									<div class="col-lg-6 col-md-6">
-										<div class="service-details-block">
-											<div class="inner-box d-flex align-items-center">
-												<div class="icon mr-20"><img src="assets/images/service/alam.webp" alt=""></div>
-												<h5 class="title my-0">Là chiến lược dài hạn <br>không phải tức thời</h5>
-											</div>
-										</div>
-									</div>
-									<div class="col-lg-6 col-md-6">
-										<div class="service-details-block">
-											<div class="inner-box d-flex align-items-center">
-												<div class="icon bg-dark mr-20"><img src="assets/images/service/check.webp" alt=""></div>
-												<h5 class="title my-0">Là chiến lược dài hạn <br>không chỉ số lượng</h5>
-											</div>
-										</div>
-									</div>
-								</div>
-                            	<h3 class="title">Bao gồm những lợi ích gì?</h3>
-                            	<p class="my-0">SEO mang lại giá trị lâu dài cho doanh nghiệp bằng cách xây dựng nguồn khách hàng ổn định từ tìm kiếm tự nhiên. Khi website được tối ưu đúng cách, không chỉ tăng lượng truy cập mà còn cải thiện chất lượng khách hàng, từ đó nâng cao hiệu quả kinh doanh tổng thể.</p>
-								<div class="row md-gy-30 align-items-center mt-30 md-mt-0 mb-40 md-mb-0">
-									<div class="col-lg-6 col-md-6 col-sm-6">
-										<div class="featured-list">
-											<ul class="list-style-1">
-												<li><span><img src="assets/images/service/details-check.webp" alt=""></span> Tăng khả năng hiển thị trên Google</li>
-												<li><span><img src="assets/images/service/details-check.webp" alt=""></span> Thu hút khách hàng tiềm năng</li>
-												<li><span><img src="assets/images/service/details-check.webp" alt=""></span> Tăng traffic tự nhiên bền vững</li>
-											</ul>
-										</div>
-									</div>
-									<div class="col-lg-6 col-md-6 col-sm-6">
-										<div class="featured-list">
-											<ul class="list-style-1">
-												<li><span><img src="assets/images/service/details-check.webp" alt=""></span> Tối ưu chi phí marketing dài hạn</li>
-												<li><span><img src="assets/images/service/details-check.webp" alt=""></span> Nâng cao uy tín thương hiệu</li>
-												<li><span><img src="assets/images/service/details-check.webp" alt=""></span> Cải thiện trải nghiệm người dùng</li>
-											</ul>
-										</div>
-									</div>
-								</div>                            
-								<div class="row md-gy-30 align-items-center">
-									<div class="col-lg-6 col-md-6 col-sm-6">
-										<div class="details-image-box overlay-anim1">
-											<img class="img1 w-100 br-10" src="assets/images/service/details-img02.webp" alt="">
-										</div>
-									</div>
-									<div class="col-lg-6 col-md-6 col-sm-6">
-										<div class="details-image-box overlay-anim1">
-											<img class="img1 w-100 br-10" src="assets/images/service/details-img03.webp" alt="">
-										</div>
-									</div>
-								</div>
-                        	</div>
-                    	</div>
-                	</div>
-                    <!-- InstanceEndEditable -->
-            	</div>
-            </div>
-        </section>
+        <!-- TemplateBeginEditable name="Contents" -->Contents<!-- TemplateEndEditable -->
         <!--==============================
         Footer Section
         ==============================-->
@@ -375,4 +229,4 @@
     <!-- Main Js File -->
     <script src="assets/js/main.js"></script>
 </body>
-<!-- InstanceEnd --></html>
+</html>
