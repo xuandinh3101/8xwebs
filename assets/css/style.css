@@ -3472,7 +3472,7 @@ body.bg-title .scroll-top::after {
 
 .sec-title {
   font-size: 42px;
-  line-height: 1.2;
+  line-height: 1.5;
   font-weight: 700;
   position: relative;
   margin-bottom: 20px;
@@ -12494,8 +12494,8 @@ a.text-theme:hover,
   }
 }
 .tv-hero-section.style-7 .hero-inner .hero-area .hero-text h1 {
-  font-size: 118px;
-  line-height: 1;
+  font-size: 110px;
+  line-height: 1.1;
   color: var(--white-color);
   font-weight: 800;
   font-family: var(--title-font);
@@ -12617,7 +12617,7 @@ a.text-theme:hover,
 }
 .tv-hero-section.style-7 .hero-inner .hero-area .hero-thumb img {
   max-width: inherit;
-  margin-top: 121px;
+  margin-top: 120px;
   margin-left: -140px;
   /* Large devices */
 }
@@ -16344,7 +16344,7 @@ a.text-theme:hover,
   transition: all 0.4s ease 0s;
 }
 .service-box-seven .service-top h4, .service-box-eight .service-top h4 {
-  margin: 0;
+  margin: 10px 0 0 0;;
   font-size: 20px;
   line-height: 1.2;
   color: var(--white-color);
@@ -16371,6 +16371,7 @@ a.text-theme:hover,
 }
 .service-box-seven .tag-list, .service-box-eight .tag-list {
   margin-left: 20px;
+	min-height: 70px;
 }
 .service-box-seven .tag-list .tag, .service-box-eight .tag-list .tag {
   font-size: 14px;

@@ -58,7 +58,7 @@
                     <div class="row align-items-center justify-content-between">
                         <div class="col-auto logo">
                             <div class="header-logo">
-                                <a href="index.html">
+                                <a href="trang-chu.html">
                                     <img alt="logo" src="assets/images/logo/logo-2.png">
                                     <img alt="logo" src="assets/images/logo/logo.png">
                                 </a>
@@ -96,7 +96,7 @@
             <div class="mobile-menu-area">
                 <button class="menu-toggle"><i class="fas fa-times"></i></button>
                 <div class="mobile-logo">
-                    <a href="index.html"><img alt="Pureflow" src="assets/images/logo/logo-2.png"></a>
+                    <a href="trang-chu.html"><img alt="Pureflow" src="assets/images/logo/logo-2.png"></a>
                 </div>
                 <div class="mobile-menu">
                     <ul class="navigation clearfix">
@@ -115,7 +115,7 @@
                     <div class="row align-items-center justify-content-between">
                         <div class="col-auto logo">
                             <div class="header-logo">
-                                <a href="index.html">
+                                <a href="trang-chu.html">
                                     <img alt="logo" src="assets/images/logo/logo.png">
                                     <img alt="logo" src="assets/images/logo/logo.png">
                                 </a>
