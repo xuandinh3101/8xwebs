@@ -17370,7 +17370,7 @@ a.text-theme:hover,
   animation: wobble_spatial 1s forwards ease-in-out 0s;
 }
 .tv-choose-section.style-3 .tv-choose-inner .choose-content-wrapper {
-  margin: 0 -170px 50px 120px;
+  margin: 0;
   /* Extra large devices */
   /* Medium Large devices */
 }
