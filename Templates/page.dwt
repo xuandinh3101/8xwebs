@@ -3,9 +3,9 @@
 <head>
     <meta charset="utf-8">
     <meta content="ie=edge" http-equiv="x-ua-compatible">
-    <title>Dịch vụ webiste chuyên nghiệp | 8xwebs.net</title>
-    <meta content="Dịch vụ webiste chuyên nghiệp | 8xwebs.net" name="description">
-    <meta content="website, thiết kế web, dịch vụ web, dịch vụ thiết kế website" name="keywords">
+    <title>Dịch vụ thiết kế đồ họa chuyên nghiệp | 8xwebs.net</title>
+    <meta content="Dịch vụ thiết kế đồ họa chuyên nghiệp | 8xwebs.net" name="description">
+    <!-- TemplateBeginEditable name="keywords" -->keywords<!-- TemplateEndEditable -->
     <meta content="INDEX,FOLLOW" name="robots">
 
     <!-- Mobile Specific Metas -->
@@ -58,7 +58,7 @@
                     <div class="row align-items-center justify-content-between">
                         <div class="col-auto logo">
                             <div class="header-logo">
-                                <a href="trang-chu.html">
+                                <a href="index.html">
                                     <img alt="logo" src="assets/images/logo/logo.png">
                                     <img alt="logo" src="assets/images/logo/logo.png">
                                 </a>
@@ -96,7 +96,7 @@
             <div class="mobile-menu-area">
                 <button class="menu-toggle"><i class="fas fa-times"></i></button>
                 <div class="mobile-logo">
-                    <a href="trang-chu.html"><img alt="Pureflow" src="assets/images/logo/logo-2.png"></a>
+                    <a href="index.html"><img alt="Pureflow" src="assets/images/logo/logo-2.png"></a>
                 </div>
                 <div class="mobile-menu">
                     <ul class="navigation clearfix">
@@ -115,7 +115,7 @@
                     <div class="row align-items-center justify-content-between">
                         <div class="col-auto logo">
                             <div class="header-logo">
-                                <a href="trang-chu.html">
+                                <a href="index.html">
                                     <img alt="logo" src="assets/images/logo/logo.png">
                                     <img alt="logo" src="assets/images/logo/logo.png">
                                 </a>

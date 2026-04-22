@@ -129,10 +129,10 @@ body {
 
 body {
   font-family: var(--body-font);
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 400;
   color: var(--body-color);
-  line-height: 26px;
+  line-height: 28px;
   background: var(--light-color) !important;
   overflow-x: hidden;
   -webkit-font-smoothing: antialiased;
@@ -303,7 +303,7 @@ p {
   font-family: var(--body-font);
   margin: 0 0 15px 0;
   color: var(--gray-color2);
-  line-height: 1.6;
+  line-height: 1.8;
 }
 
 h1 a,
@@ -16765,9 +16765,10 @@ a.text-theme:hover,
 }
 .services-details__content .title-two {
   margin-top: 33px;
+	line-height: 1.3;
 }
 .services-details__content p {
-  font-size: 16px;
+  font-size: 18px;
 }
 
 .service-details-block {
@@ -25974,6 +25975,7 @@ a.text-theme:hover,
   color: var(--dark-color);
   font-weight: 600;
   margin: 15px 0;
+	line-height: 1.3;
   /* Extra small devices */
 }
 @media (max-width: 575px) {
@@ -26039,7 +26041,7 @@ a.text-theme:hover,
   align-items: center;
   gap: 10px;
   color: var(--gray-color2);
-  margin-left: 50px;
+  margin-left: 30px;
   position: relative;
   /* Extra small devices */
 }
@@ -26070,7 +26072,7 @@ a.text-theme:hover,
   }
 }
 .blog-list-card .card-content .description {
-  font-size: 16px;
+  font-size: 18px;
   color: var(--gray-color2);
   margin: 0;
 }
