@@ -18260,7 +18260,7 @@ a.text-theme:hover,
   display: flex;
   justify-content: center;
   padding: 15px;
-  max-width: 565px;
+  max-width: 700px;
   border-radius: 35px;
   border: 1px solid var(--bs-border-color8);
   /* Extra small devices */
@@ -18359,8 +18359,8 @@ a.text-theme:hover,
   background-size: 100% 2px;
 }
 .tv-project-section.inner .project-single-box:hover .thumb img {
-  transform: scaleX(1.2);
-  transform-origin: top center;
+	transform: scale(1.1);
+ 	transform-origin: top center;
   transition: transform 0.2s ease-in-out;
 }
 .tv-project-section.inner .project-single-box:hover .project-info .project-badge span {
