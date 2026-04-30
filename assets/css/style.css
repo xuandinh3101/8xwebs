@@ -12476,7 +12476,7 @@ a.text-theme:hover,
 
 /*==== Hero Section Two =====================*/
 .tv-hero-section.style-7 .hero-inner .hero-area .hero-text {
-  padding: 280px 0 170px;
+  padding: 200px 0 170px;
 }
 @media (max-width: 1024px) {
   .tv-hero-section.style-7 .hero-inner .hero-area .hero-text {
@@ -12494,8 +12494,8 @@ a.text-theme:hover,
   }
 }
 .tv-hero-section.style-7 .hero-inner .hero-area .hero-text h1 {
-  font-size: 110px;
-  line-height: 1.1;
+  font-size: 120px;
+  line-height: 1.2;
   color: var(--white-color);
   font-weight: 800;
   font-family: var(--title-font);
